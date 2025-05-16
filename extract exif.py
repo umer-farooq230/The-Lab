@@ -1,3 +1,5 @@
+# A script to extract exif info  
+
 import piexif
 
 def decode_bytes(value):
